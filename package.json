@@ -1,0 +1,28 @@
+{
+  "name": "express-js-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap for express-js based applications",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codermanager/express-js-bootstrap.git"
+  },
+  "keywords": [
+    "express",
+    "javascript",
+    "node"
+  ],
+  "author": "Codermanager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codermanager/express-js-bootstrap/issues"
+  },
+  "homepage": "https://github.com/codermanager/express-js-bootstrap#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
