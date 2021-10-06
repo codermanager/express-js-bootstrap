@@ -1,0 +1,1 @@
+# bootstrap for express-js based applications
